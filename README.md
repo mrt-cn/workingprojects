@@ -60,5 +60,5 @@ python image_processing.py
 ---
 
 ## 📩 İletişim  
-📧 **Geliştirici:** [Murat Çınar](https://github.com/mrt-cn)  
+📧 **Geliştirici:** [Murat Can](https://github.com/mrt-cn)  
 🔗 **GitHub:** [WorkingProjects](https://github.com/mrt-cn/workingprojects)  
